@@ -30,13 +30,13 @@ We investigate the symmetry properties of traveling wave solutions to equations 
 - The method exploits the improved regularity available when the fractional order exceeds one half.
 - The result is consistent with the classical symmetry theory for local equations, recovered in the limit $s \to 1$.
 
-### 3. Symmetry of Fractional Traveling Waves for $s < 1/2$
+### 3. Symmetry of Fractional Traveling Waves for $s \leq 1/2$
 
-We also treat the complementary regime $s < 1/2$, where the fractional Laplacian is more strongly nonlocal and the classical symmetry techniques require substantial modification. The candidate proof develops an approach adapted to the singular, long-range nature of the operator in this range.
+We also treat the complementary regime $s \leq 1/2$, where the fractional Laplacian is more strongly nonlocal and the classical symmetry techniques require substantial modification. The candidate proof develops an approach adapted to the singular, long-range nature of the operator in this range.
 
 **Key features:**
 
-- Symmetry results are obtained for the full fractional range $s < 1/2$.
+- Symmetry results are obtained for the full fractional range $s \leq 1/2$.
 - The proof handles the enhanced nonlocality and the loss of standard elliptic regularity estimates.
 - Together with the $s > 1/2$ case, this provides a symmetry picture across the entire admissible range $0 < s < 1$.
 
@@ -46,7 +46,7 @@ The candidate proofs adapt and extend techniques from the nonlocal calculus and 
 
 1. **Cylindrical reduction** – Reduction of the traveling wave problem to a lower-dimensional formulation that retains the essential nonlocal effects of the fractional Laplacian.
 2. **Nonlocal maximum principles and comparison** – Use of maximum principles and comparison arguments adapted to the fractional setting, with explicit control of the long-range tail terms.
-3. **Regularity bootstrap** – Systematic improvement of regularity for the traveling wave profiles, with separate treatments for $s > 1/2$ and $s < 1/2$.
+3. **Regularity bootstrap** – Systematic improvement of regularity for the traveling wave profiles, with separate treatments for $s > 1/2$ and $s \leq 1/2$.
 4. **Symmetry via moving planes or integral identities** – Adaptation of symmetry methods (such as moving plane arguments or integral identities) to the nonlocal framework, accounting for the absence of local differential structure.
 
 For the cylindrical case, the geometry of the domain interacts with the nonlocal kernel and requires a careful localization argument. For the symmetry results, the fractional order $s$ governs the strength of the nonlocality and determines which regularity and compactness tools are available.
@@ -57,7 +57,7 @@ For the cylindrical case, the geometry of the domain interacts with the nonlocal
 |---|---|
 | [`cylindrical_fractional_traveling_waves.pdf`](https://github.com/mingfeng87/Traveling-Waves-with-Fractional-Laplacian/blob/main/cylindrical_fractional_traveling_waves.pdf) | Candidate proof of the existence and structure of cylindrically symmetric traveling waves for a fractional-order equation. |
 | [`fractional_traveling_wave_symmetry_above_half.pdf`](https://github.com/mingfeng87/Traveling-Waves-with-Fractional-Laplacian/blob/main/fractional_traveling_wave_symmetry_above_half.pdf) | Candidate proof of symmetry of fractional traveling waves in the regime $s > 1/2$. |
-| [`fractional_traveling_wave_symmetry_less_half.pdf`](https://github.com/mingfeng87/Traveling-Waves-with-Fractional-Laplacian/blob/main/fractional_traveling_wave_symmetry_less_half.pdf) | Candidate proof of symmetry of fractional traveling waves in the regime $s < 1/2$. |
+| [`fractional_traveling_wave_symmetry_less_half.pdf`](https://github.com/mingfeng87/Traveling-Waves-with-Fractional-Laplacian/blob/main/fractional_traveling_wave_symmetry_less_half.pdf) | Candidate proof of symmetry of fractional traveling waves in the regime $s \leq 1/2$. |
 
 ## Verification Status
 
