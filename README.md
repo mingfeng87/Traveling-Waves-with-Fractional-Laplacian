@@ -63,6 +63,13 @@ For the cylindrical case, the geometry of the domain interacts with the nonlocal
 
 All three documents are marked as **drafts**. The results were generated with AI assistance and are currently under verification by our team. We welcome independent scrutiny and feedback from the mathematical community. In particular, we invite readers to check the handling of the nonlocal tail terms, the regularity assumptions in the two symmetry regimes, and the cylindrical reduction step.
 
+## Citing a manuscript
+
+Use the full manuscript title and the date printed in the PDF, use M. Zhao et al. as the author of PDF files. Include the
+[repository URL](https://github.com/mingfeng87/Traveling-Waves-with-Fractional-Laplacian)
+and the commit hash or a commit-specific PDF link for the version consulted,
+so that the cited draft can be identified after revisions.
+
 ## License
 
 This project is provided for academic and research purposes. Please contact the repository owner for licensing details.
